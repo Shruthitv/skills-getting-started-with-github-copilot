@@ -113,6 +113,45 @@ activities = {
         "max_participants": 20,
         "participants": []
     },
+    # More sports activities
+    "Table Tennis Club": {
+        "description": "Practice table tennis and participate in friendly matches",
+        "schedule": "Tuesdays, 5:00 PM - 6:30 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "Badminton Team": {
+        "description": "Train and compete in badminton tournaments",
+        "schedule": "Fridays, 4:00 PM - 6:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
+    # More artistic activities
+    "Drama Workshop": {
+        "description": "Improve acting skills through workshops and improvisation",
+        "schedule": "Mondays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Sculpture Club": {
+        "description": "Learn sculpting techniques and create 3D art projects",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 8,
+        "participants": []
+    },
+    # More intellectual activities
+    "Chess Tactics Club": {
+        "description": "Focus on advanced chess tactics and strategies",
+        "schedule": "Thursdays, 5:00 PM - 6:30 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "History Club": {
+        "description": "Discuss historical events and participate in history quizzes",
+        "schedule": "Wednesdays, 3:00 PM - 4:30 PM",
+        "max_participants": 14,
+        "participants": []
+    },
     "Dance Crew": {
         "description": "Learn and perform various dance styles at school events",
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
