@@ -88,6 +88,18 @@ activities = {
         "max_participants": 12,
         "participants": []
     },
+    "Volleyball Team": {
+        "description": "Practice volleyball and compete in inter-school tournaments",
+        "schedule": "Thursdays, 4:00 PM - 6:00 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Track and Field": {
+        "description": "Train for running, jumping, and throwing events",
+        "schedule": "Mondays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": []
+    },
     # Additional artistic activities
     "Photography Club": {
         "description": "Explore photography techniques and participate in photo walks",
@@ -101,6 +113,18 @@ activities = {
         "max_participants": 20,
         "participants": []
     },
+    "Dance Crew": {
+        "description": "Learn and perform various dance styles at school events",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Creative Writing Club": {
+        "description": "Write stories, poems, and participate in writing contests",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
     # Additional intellectual activities
     "Science Club": {
         "description": "Conduct experiments and explore scientific concepts",
@@ -112,6 +136,18 @@ activities = {
         "description": "Build robots and compete in robotics competitions",
         "schedule": "Mondays, 4:00 PM - 6:00 PM",
         "max_participants": 16,
+        "participants": []
+    },
+    "Quiz Bowl": {
+        "description": "Compete in academic quiz competitions covering various subjects",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "Astronomy Club": {
+        "description": "Explore the universe through telescopes and discussions",
+        "schedule": "Fridays, 5:30 PM - 7:00 PM",
+        "max_participants": 15,
         "participants": []
     }
 }
